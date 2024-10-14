@@ -5,10 +5,14 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering can be described as the process by which software is created or developed and maintained.
 The importance  of software engineering cannot be  overemphasized as it helps in creating job opportunities in the modern world,it supports a lot of businesses and problem solving but to mention a few.
 
+
+
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1.The Birth of Software Engineering (1968):The Birth of Software Engineering occurred in 1968 at the NATO Software Engineering Conference in Germany, where the term "software engineering" was first introduced. The conference aimed to tackle issues in software development, known as the "software crisis," where many projects were late, over budget, or did not meet requirements. It highlighted the need for a more structured approach to software development, leading to the formal recognition of software engineering as a distinct field.
 
 2.The Introduction of Structured Programming (1970s):The Introduction of Structured Programming in the 1970s focused on improving the clarity and organization of code. This approach emphasized using simple, clear control structures to break programs into manageable sections. By reducing complexity, structured programming made software easier to read, test, and maintain. It laid the groundwork for modern programming practices and improved overall software development efficiency.
@@ -16,6 +20,7 @@ Identify and describe at least three key milestones in the evolution of software
 3.The Rise of the Internet (1990s): The growth of the internet changed how software was developed and used. It led to new tools, technologies, and practices for creating web applications and online services.
 
 4.The Agile Movement(2001):The Agile Movement, established in 2001 with the Agile Manifesto, introduced a flexible and collaborative way to develop software. It emphasizes building software in small, manageable parts and regularly updating it based on user feedback. This method allows teams to quickly adapt to changes and enhance product quality. Agile has since become a key approach in the software industry, shaping how projects are managed and delivered.
+
 
 
 
